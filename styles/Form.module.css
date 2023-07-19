@@ -1,0 +1,29 @@
+.container {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+.formControl {
+  margin-top: 12rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-size: 1.8rem;
+}
+.formControl input {
+  font-size: 1.3rem;
+  border-radius: 1rem;
+  text-indent: .5rem;
+  height: 1.8rem;
+  margin: 1rem 0;
+  width: 16rem;
+}
+
+.formControl button {
+  width: 8rem;
+  height: 2rem;
+  border-radius: 1rem;
+}
